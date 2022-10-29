@@ -17,3 +17,9 @@ If Else an extension to compare `scene variables` and `global variables` with an
 * IfBooleanGlobal  - Compare a `global variable (type boolean)` returns `true|false`
 
 * Else - Trigger when some of the `If` statements is false. returns `true`
+
+## Video tutorial
+https://www.youtube.com/watch?v=Ocprm8YPgLo
+
+## Alternative source
+https://www.ulisesfreitas.com/gdevelop-extensions/
